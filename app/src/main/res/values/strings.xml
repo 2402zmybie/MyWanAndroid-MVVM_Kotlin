@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+
+    <string name="home">首页</string>
+    <string name="wechat">公众号</string>
+    <string name="project">项目</string>
+    <string name="navigation">导航</string>
+    <string name="knowledge_tree">知识体系</string>
+
+    <string name="favorites">收藏</string>
+    <string name="todo">待办清单</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="setting">设置</string>
+    <string name="logout">退出登录</string>
+    <string name="about">关于</string>
+
+    <string name="retry">重新加载</string>
+    <string name="loading">加载中…</string>
+    <string name="title_err">未知标题</string>
+    <string name="web_page_err">网页 %s 加载失败 o(╥﹏╥)o</string>
+    <string name="no_data">暂无数据 o(╥﹏╥)o \n 点击屏幕重新加载</string>
+    <string name="error_loading">加载失败 o(╥﹏╥)o \n 点击屏幕重新加载</string>
+
+    <string name="exit_hint">再按一次退出</string>
+    <string name="network_error">网络连接不可用,请检查网络!</string>
+    <string name="business_error">业务处理失败,后台未返回具体原因!</string>
+
+    <string name="user_name">用户名</string>
+
+    <string name="fresh">新</string>
+    <string name="on_top">置顶</string>
+    <string name="search">搜索</string>
+    <string name="scan">扫码</string>
+    <string name="scan_result">扫码结果</string>
+    <string name="i_know">我知道了</string>
+    <string name="camera_permission_reason">开启摄像头权限才能扫码，请授予权限以便正常使用</string>
+    <string name="no_permission">缺少必要权限，该功能无法正常使用</string>
+
+</resources>
